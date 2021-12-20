@@ -1,7 +1,7 @@
-# PlaneTicket_Web.
-DA SE104
+# Website: Booking airline ticket
 
 ## Aplication Structure:
+
 ```bash
 
 .
@@ -67,6 +67,4 @@ DA SE104
 |
 app.js //server.
 db.json //database.
-
-by KhoiLe.
 ```
